@@ -1,0 +1,12 @@
+*.sln
+*.db
+*.meta
+OtherWorldRenderPro/.vs/OtherWorldRenderPro/v16/.suo
+OtherWorldRenderPro/Assembly-CSharp.csproj
+/OtherWorldRenderPro/Library/
+/OtherWorldRenderPro/Logs/
+/OtherWorldRenderPro/obj/
+/OtherWorldRenderPro/Packages/
+/OtherWorldRenderPro/ProjectSettings/
+/OtherWorldRenderPro/Temp/
+
